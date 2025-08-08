@@ -493,3 +493,6 @@ if st.session_state['results']:
             file_name='language_insights_metrics.json',
             mime='application/json',
         )
+
+st.markdown("<hr>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: grey;'>This app was developed under MIT License by Michalis Odysseos in 2025</p>", unsafe_allow_html=True)
