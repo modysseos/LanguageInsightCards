@@ -25,7 +25,7 @@ Follow these instructions to set up and run the project locally.
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/language-insight-cards.git
+    git clone https://github.com/modysseos/language-insight-cards.git
     cd language-insight-cards
     ```
 
