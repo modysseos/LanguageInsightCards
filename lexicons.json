@@ -1,0 +1,145 @@
+{
+  "claims": [
+    "it is clear that", "the fact is", "undoubtedly", "certainly", "obviously", 
+    "everyone knows", "it is a fact that", "without a doubt", "it is undeniable",
+    "the truth is", "it's simple", "it's obvious", "it's clear", "the reality is",
+    "there is no alternative", "it's a given", "it is essential", "it is vital",
+    "the point is", "make no mistake", "let me be clear", "it's a must", "it's crucial",
+    "it's fundamental", "it's proven", "it's established", "beyond question", 
+    "it stands to reason", "indisputably", "self-evidently", "as a matter of fact",
+    "it's a no-brainer", "it goes without saying", "the bottom line is"
+  ],
+  "specifics": [
+    "for example", "for instance", "such as", "in particular", "specifically",
+    "namely", "i.e.", "e.g.", "according to", "data shows", "research indicates",
+    "a study by", "in the case of", "on [date]", "at [location]", "[number] percent",
+    "he said", "she said", "they said", "to illustrate", "as an illustration",
+    "in detail", "case in point", "consider the case of", "a concrete example",
+    "to be precise", "the figures show", "statistics confirm", "as evidence", 
+    "the report states", "to quote", "[name] found", "to cite", "as reported by",
+    "in numbers", "the evidence suggests"
+  ],
+  "absolutist": [
+    "always", "never", "every", "all", "none", "only", "just", "must", "impossible", 
+    "absolutely", "completely", "totally", "entirely", "perfectly", "nothing", "everything",
+    "unquestionably", "unequivocally", "invariably", "without exception", "constantly",
+    "guaranteed", "no one", "everyone", "anybody", "nobody", "definitively", "categorically",
+    "unfailingly", "certainly not", "by no means", "positively", "utterly", "without fail",
+    "every single time"
+  ],
+  "hedges": [
+    "i think", "i believe", "i feel", "it seems", "it appears", "perhaps", "maybe", 
+    "possibly", "could", "might", "may", "suggests", "appears to be", "seems to be",
+    "in my opinion", "to some extent", "somewhat", "arguably", "often", "usually",
+    "tends to", "likely", "unlikely", "presumably", "generally", "in most cases",
+    "i guess", "i suppose", "it could be that", "it's possible that", "one might say",
+    "it's conceivable", "roughly", "approximately", "seems likely", "almost", 
+    "virtually", "more or less", "kind of", "sort of", "in a way", "to a certain degree",
+    "it would seem", "i would say"
+  ],
+  "you_imperative": [
+    "you must", "you should", "you have to", "you need to", "remember that", "consider this",
+    "imagine that", "think about", "look at", "listen to", "do this", "don't forget",
+    "you will", "you are going to", "make sure you", "be sure to", "i urge you to",
+    "i ask you to", "let's", "you ought to", "it's your duty to", "i insist that you",
+    "i demand", "you are required to", "it is imperative that you", "do not", "you better",
+    "it is your responsibility to", "take note", "pay attention"
+  ],
+  "cognitive_process": [
+    "analyze", "apparent", "apparently", "appear", "appeared", "appears", "assume", "aware", "because", "believe", "believed",
+    "certain", "clear", "clearly", "compare", "conceive", "conclude", "consider", "considered", "considering", "contrast",
+    "decide", "deduce", "deem", "define", "diagnose", "discover", "doubt", "effect", "evaluate", "examine", "expect", "explain",
+    "find", "found", "guess", "hence", "hope", "hypothesize", "if", "imply", "implications", "implying", "infer", "inferred",
+    "interpret", "investigate", "judge", "know", "knew", "knows", "logic", "maybe", "mean", "meant", "means", "might", "must",
+    "notice", "ought", "perceive", "perhaps", "ponder", "possible", "presume", "probably", "question", "rationalize", "realize",
+    "reason", "reckon", "reflect", "see", "seem", "seemed", "seems", "should", "speculate", "suppose", "suspect", "theorize",
+    "therefore", "think", "thinks", "thought", "understand", "understood", "view", "wonder", "would", "cause", "effect", "reasoning"
+  ],
+  "first_person_singular": [
+    "i", "me", "my", "mine", "myself", "i'm", "i've", "i'd", "i'll"
+  ],
+  "first_person_plural": [
+    "we", "us", "our", "ours", "ourselves", "we're", "we've", "we'd", "we'll"
+  ],
+  "stop_words_en": [
+    "a", "about", "above", "after", "again", "against", "all", "am", "an", "and", "any", "are", "as", "at", 
+    "be", "because", "been", "before", "being", "below", "between", "both", "but", "by", 
+    "can", "could", "did", "do", "does", "doing", "down", "during", 
+    "each", "few", "for", "from", "further", 
+    "had", "has", "have", "having", "he", "her", "here", "hers", "herself", "him", "himself", "his", "how", 
+    "i", "if", "in", "into", "is", "it", "its", "itself", 
+    "just", "me", "more", "most", "my", "myself", 
+    "no", "nor", "not", "now", "of", "off", "on", "once", "only", "or", "other", "our", "ourselves", "out", "over", "own", 
+    "same", "she", "should", "so", "some", "such", 
+    "than", "that", "the", "their", "theirs", "them", "themselves", "then", "there", "these", "they", "this", "those", "through", "to", "too", 
+    "under", "until", "up", "very", 
+    "was", "we", "were", "what", "when", "where", "which", "while", "who", "whom", "why", "will", "with", "would", 
+    "you", "your", "yours", "yourself", "yourselves"
+  ],
+  "claims_el": [
+    "είναι σαφές ότι", "το γεγονός είναι", "αναμφίβολα", "σίγουρα", "προφανώς",
+    "όλοι γνωρίζουν", "είναι γεγονός ότι", "χωρίς αμφιβολία", "είναι αναμφισβήτητο",
+    "η αλήθεια είναι", "είναι απλό", "είναι προφανές", "είναι ξεκάθαρο", "στην πραγματικότητα",
+    "δεν υπάρχει εναλλακτική", "είναι δεδομένο", "είναι απαραίτητο", "είναι ζωτικής σημασίας",
+    "το θέμα είναι", "να μην έχετε καμία αμφιβολία", "επιτρέψτε μου να είμαι σαφής",
+    "είναι επιτακτική ανάγκη", "είναι κρίσιμο", "είναι θεμελιώδες", "είναι αποδεδειγμένο",
+    "πέρα από κάθε αμφιβολία", "είναι λογικό", "αδιαμφισβήτητα", "αυταπόδεικτα",
+    "στην ουσία", "είναι αυτονόητο", "η ουσία είναι"
+  ],
+  "specifics_el": [
+    "για παράδειγμα", "όπως", "συγκεκριμένα", "δηλαδή", "σύμφωνα με",
+    "τα δεδομένα δείχνουν", "η έρευνα δείχνει", "μια μελέτη από", "στην περίπτωση του",
+    "είπε", "δήλωσε", "ένα συγκεκριμένο παράδειγμα", "για την ακρίβεια", "τα στοιχεία δείχνουν",
+    "οι στατιστικές επιβεβαιώνουν", "ως απόδειξη", "η έκθεση αναφέρει", "για να παραθέσω",
+    "ο/η [όνομα] βρήκε", "για να αναφέρω", "όπως αναφέρθηκε από", "σε αριθμούς",
+    "τα αποδεικτικά στοιχεία δείχνουν"
+  ],
+  "absolutist_el": [
+    "πάντα", "ποτέ", "κάθε", "όλοι", "κανένας", "μόνο", "απλά", "πρέπει", "αδύνατο",
+    "απολύτως", "εντελώς", "πλήρως", "τέλεια", "τίποτα", "τα πάντα",
+    "αναμφισβήτητα", "κατηγορηματικά", "σταθερά", "χωρίς εξαίρεση", "διαρκώς",
+    "εγγυημένα", "κανείς", "ο καθένας", "οποιοσδήποτε", "ουδείς", "οριστικά", "τελεσίδικα",
+    "ανελλιπώς", "σίγουρα όχι", "σε καμία περίπτωση", "θετικά", "ολοκληρωτικά", "παντελώς",
+    "χωρίς αποτυχία", "κάθε φορά"
+  ],
+  "hedges_el": [
+    "νομίζω", "πιστεύω", "αισθάνομαι", "φαίνεται", "ίσως", "πιθανώς",
+    "θα μπορούσε", "μπορεί", "υποδηλώνει", "φαίνεται να είναι", "κατά τη γνώμη μου",
+    "ως ένα βαθμό", "κάπως", "ενδεχομένως", "συχνά", "συνήθως", "τείνει να",
+    "πιθανό", "απίθανο", "μάλλον", "γενικά", "στις περισσότερες περιπτώσεις",
+    "υποθέτω", "θα έλεγα ότι", "θα μπορούσε κανείς να πει", "είναι πιθανόν", "περίπου",
+    "φαίνεται πιθανό", "σχεδόν", "ουσιαστικά", "λίγο-πολύ", "κάτι σαν", "ένα είδος",
+    "κατά κάποιο τρόπο", "σε έναν ορισμένο βαθμό", "θα φαινόταν", "θα έλεγα"
+  ],
+  "you_imperative_el": [
+    "πρέπει να", "θα έπρεπε να", "πρέπει", "χρειάζεται να", "να θυμάστε ότι", "σκεφτείτε το",
+    "φανταστείτε ότι", "σκεφτείτε", "κοιτάξτε", "ακούστε", "κάντε το", "μην ξεχνάτε",
+    "οφείλεις να", "είναι καθήκον σου", "επιμένω να", "απαιτώ", "απαιτείται να",
+    "είναι επιτακτικό να", "μην", "καλύτερα να", "είναι ευθύνη σου να", "σημειώστε", "προσέξτε",
+    "πέτε μου", "πέτε", "ξηγήσει", "πείτε μου", "πες", "ελάτε", "έλα"
+  ],
+  "cognitive_process_el": [
+    "αναλύω", "φαίνεται", "προφανώς", "υποθέτω", "γνωρίζω", "επειδή", "πιστεύω",
+    "βέβαιος", "σαφής", "συγκρίνω", "συμπεραίνω", "θεωρώ", "αποφασίζω", "αμφιβάλλω",
+    "αποτέλεσμα", "αξιολογώ", "εξετάζω", "περιμένω", "εξηγώ", "βρίσκω", "ελπίζω",
+    "αν", "συνεπάγεται", "ερμηνεύω", "ερευνώ", "κρίνω", "λογική", "ίσως", "σημαίνει",
+    "θα μπορούσε", "πρέπει", "παρατηρώ", "αντιλαμβάνομαι", "ίσως", "σκέφτομαι", "πιθανόν",
+    "αμφισβητώ", "συνειδητοποιώ", "λόγος", "σκέφτομαι", "αναρωτιέμαι", "αιτία", "αιτιολόγηση",
+    "αποφάσισα", "καταλάβετε", "καταλαβαίνω", "ξέρω", "ξέρεις", "μαθαίνω", "εμπαθαίνω",
+    "νομίζετε", "νομίζω", "θεωρούσα", "θυμάμαι"
+  ],
+  "first_person_singular_el": [
+    "εγώ", "εμένα", "μου", "δικό μου"
+  ],
+  "first_person_plural_el": [
+    "εμείς", "εμάς", "μας", "δικό μας"
+  ],
+  "stop_words_el": [
+    "α", "αλλά", "αν", "αντί", "από", "αυτά", "αυτές", "αυτή", "αυτό", "αυτοί", "αυτός",
+    "δε", "δεν", "εγώ", "ειμαι", "είμαστε", "είναι", "είσαι", "είστε", "εκείνα", "εκείνες",
+    "εκείνη", "εκείνο", "εκείνοι", "εκείνος", "εμείς", "εσείς", "εσύ", "εως", "η", "θα",
+    "ι", "και", "κατά", "κι", "με", "μετά", "μη", "μην", "μου", "μπρος", "να", "ο", "οι",
+    "ως", "πως", "σε", "στη", "στην", "στο", "στον", "τα", "τε", "την", "της", "το", "τον",
+    "τος", "του", "των", "τους", "χωρίς"
+  ]
+}
